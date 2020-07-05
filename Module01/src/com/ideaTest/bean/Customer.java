@@ -14,6 +14,6 @@ public class Customer {
 
     }
     public void eat(){
-        System.out.println("吃饭");
+        System.out.println("吃--饭");
     }
 }
